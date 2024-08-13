@@ -5,3 +5,7 @@ body {
 h2 {
     color: #343a40;
 }
+
+#searchResultsCanvas {
+    background-color: #ffffff;
+}
