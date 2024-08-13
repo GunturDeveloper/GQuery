@@ -1,0 +1,2 @@
+# GQuery
+lightweight search shortcut
